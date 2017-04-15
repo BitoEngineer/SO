@@ -12,7 +12,7 @@ using namespace System;
 using namespace System::Diagnostics;
 using namespace System::ComponentModel;
 
-
+/*
 int main()
 {
 	DWORD processId = GetCurrentProcessId();
@@ -60,7 +60,7 @@ int main()
 
     return 0;
 }
-
+*/
 
 void printBiggestReservedRegion(DWORD processId)
 {
